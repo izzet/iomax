@@ -1,0 +1,6 @@
+dask==2022.12.1
+dask_jobqueue==0.8.1
+distributed==2022.12.1
+numpy==1.21.0
+pandas==1.5.3
+pyarrow
