@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8393987.svg)](https://doi.org/10.5281/zenodo.8393987)
 
 > [!WARNING]
-> This repository serves as a showcase for a curated set of queries with varying difficulties, demonstrating techniques to enhance query execution performance as outlined in our published paper. The queries featured here have been extracted from the actual library implementation, which is not yet prepared for public release. 
+> This repository serves as a showcase for a curated set of queries with varying difficulties, demonstrating techniques to enhance query execution performance as outlined in our paper. The queries featured here have been extracted from the actual library implementation, which is not yet prepared for public release. 
 
 ## Abstract
 
