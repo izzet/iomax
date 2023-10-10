@@ -2,6 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8393987.svg)](https://doi.org/10.5281/zenodo.8393987)
 
+> [!WARNING]
+> This repository serves as a showcase for a curated set of queries with varying difficulties, demonstrating techniques to enhance query execution performance as outlined in our published paper. The queries featured here have been extracted from the actual library implementation, which is not yet prepared for public release. 
+
 ## Abstract
 
 I/O analysis is an essential task for improving the performance of scientific applications on high-performance computing (HPC) systems. However, current analysis tools, which often use data drilling techniques (iterative exploration for deeper insights), treat every query independently and do not optimize column data for data-slicing (extracting specific data subsets), resulting in subpar querying performance. In this paper, we designed IOMax, a tool for efficient data drilling analysis on large-scale I/O traces. IOMax utilizes a novel query optimization technique to improve the query performance by 8.6x while reducing the memory footprint required for analysis by 11x. Additionally, it employs data transformation techniques to improve data-slicing performance by up to 11.4x. In conclusion, IOMax optimizes I/O analysis for scientific workflows on the Lassen supercomputer, resulting in up to 7x improvement.
